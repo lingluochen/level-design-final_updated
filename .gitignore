@@ -10,6 +10,9 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+
+dir_to_ignore/Assets/Dnk_Dev
+
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
