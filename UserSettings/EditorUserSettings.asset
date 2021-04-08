@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 224247031146467e030b013b34264b1515031125226732353e3d5326ece92021
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 224247031146467f03053306153510381904082338292a18223b0f3cf0d0353be9a81be8f70517332a12be721130082beb
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 2242470311464669080f006f242a521556270a252f2d22253f281173c1e13634e7a705e0ea2a33397627f73d092e0d3ac1090c05f3442f131003ed0214c0231014cb1d8b0fc61608d2
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 22424703114646480e0b026d232252001a122b292926237e38271427fb
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 2242470311464673021c1e2d0263771f0507113e2d2466002c2a167cc6e53937d1e433e7e2742a323016f6
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 224247031146466f081d180f11331105181e0c33
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 224247031146467d1f0b091d1f2f5b2f0f121426233f193322271e21e7f43177c6e23be6d4393a323c4cfa320d2a18
+      flags: 0
+    lightmappingDeviceAndPlatform:
+      value: 53
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 0
