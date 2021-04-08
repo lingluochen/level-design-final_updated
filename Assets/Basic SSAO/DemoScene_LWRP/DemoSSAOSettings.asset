@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab16c5f65887fc346a95691925339858, type: 3}
+  m_Name: DemoSSAOSettings
+  m_EditorClassIdentifier: 
+  RandomTexture: {fileID: 2800000, guid: cfb1900af6f519149a611f53b63217a1, type: 3}
+  UseComplexNormalsReconstruction: 1
+  EffectEnabled: 1
+  SSAOColor: {r: 0, g: 0, b: 0, a: 1}
+  SamplesCount: 11
+  Radius: 0.174
+  SelfShadowingReduction: 0.085
+  AcceptableDepthDifference: 0.049
+  OcclusionFactor: 3.13
+  Downsampling: 1
+  DepthCutoff: 0.083
+  DepthCutoffSmoothTransitionRange: 0.01
+  BlurEnabled: 1
+  BlurIterations: 2
+  BlurRadius: 0.0019
+  BlurDepthFalloff: 0.1
+  AOIntensity: 7.41
+  ShowAOTextureOnly: 0
