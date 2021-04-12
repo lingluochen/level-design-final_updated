@@ -60,10 +60,10 @@ public class throwAway : MonoBehaviour
                 picked = true;
                 thisBall.transform.position = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width*5 / 6, Screen.height / 5, Camera.main.nearClipPlane+1));
                 thisBall.transform.parent = cam.transform;
-                thisBall.transform.forward = -cam.transform.forward;
                 Rigidbody rb = thisBall.GetComponent<Rigidbody>();
                 rb.isKinematic = true;
                 picked ballP = thisBall.GetComponent<picked>();
+                thisBall.transform.forward = -cam.transform.forward;
                 ballP.approached = false;
                 inHand = true;
                 handBall = thisBall;

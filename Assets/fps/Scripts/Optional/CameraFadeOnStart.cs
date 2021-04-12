@@ -11,9 +11,11 @@ public class CameraFadeOnStart : MonoBehaviour
 
 	void Awake ()
 	{
+		transform.position = new Vector3(transform.position.x, transform.position.y + 0.7f, transform.position.z);
 		if( fadeInWhenSceneStarts )
 		{
 			Fade();
+			
 		}
 	}
 	
