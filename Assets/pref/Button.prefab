@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4985464546952722854}
   - component: {fileID: 8250653900221494787}
   - component: {fileID: 6153255522208596681}
+  - component: {fileID: 4735288515365412576}
   m_Layer: 0
   m_Name: Button
   m_TagString: Untagged
@@ -82,3 +83,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &4735288515365412576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5648707160467301148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c64c768e059826f43a778c2fd46e3b9f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myDoor: {fileID: 0}
+  open: 0
+  openAngle: 0
+  green: {fileID: 0}
+  idx: 0
+  gm: {fileID: 0}
+  gms: {fileID: 0}
