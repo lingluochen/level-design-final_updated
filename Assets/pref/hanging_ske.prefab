@@ -57,9 +57,37 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5153487115987294197}
     m_Modifications:
+    - target: {fileID: 456367167926852349, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1045375963986619451, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1975940110695771970, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2808610122856628928, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6625293484090676984, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
       propertyPath: m_Name
       value: Foot_LODG_FBX_OldBone (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6625293484090676984, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6730271151471101798, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7480653387755677778, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7902300615453811947, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
       propertyPath: m_RootOrder
@@ -131,9 +159,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5153487115987294197}
     m_Modifications:
+    - target: {fileID: 925201450427523658, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1062271057912494550, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
       propertyPath: m_Name
       value: FibulaandTibia_LODG_FBX_OldBone
+      objectReference: {fileID: 0}
+    - target: {fileID: 1062271057912494550, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2481571771693190708, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3791647992994628791, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4100149498391268293, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
       propertyPath: m_RootOrder
@@ -191,6 +235,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -273.399
       objectReference: {fileID: 0}
+    - target: {fileID: 4234579795728763773, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6851669252531635342, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8778806337582342443, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
 --- !u!4 &3981271702043298149 stripped
@@ -205,9 +261,37 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5153487115987294197}
     m_Modifications:
+    - target: {fileID: 1130216123433168269, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3022192105089740760, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3798016163525185544, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4111885943578960325, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4813442586674891686, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
       propertyPath: m_Name
       value: RadiusandUlna_LODG_FBX_OldBone (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4813442586674891686, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5884169899123876821, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6222501079194751623, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8401343468347619765, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
       propertyPath: m_RootOrder
@@ -279,6 +363,62 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5153487115987294197}
     m_Modifications:
+    - target: {fileID: 9271938765936107, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1352223016908255436, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2541810324531786797, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3267149331650960987, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3545356230527591202, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577785263678735009, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3860555915103628728, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4685314831538135818, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5111040136462459942, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5225332330550810534, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5810091835467264812, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526715612547037028, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6962320674814115463, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873730743994670567, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8131372380727264529, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -335,6 +475,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: HangingRope
       objectReference: {fileID: 0}
+    - target: {fileID: 8904637590361841579, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9067711123377739195, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ccaabf867eab11a4fa3153bfe77c2bfe, type: 3}
 --- !u!4 &5817679981827396771 stripped
@@ -349,6 +497,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5153487115987294197}
     m_Modifications:
+    - target: {fileID: 180000843275866909, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 272555384488494661, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1225290643778095860, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4249923058580699498, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5278307266384770239, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -405,9 +569,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90.579
       objectReference: {fileID: 0}
+    - target: {fileID: 7961725657548138692, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8675195621087223839, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9158924879308572332, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
       propertyPath: m_Name
       value: Humerus_LODG_FBX_OldBone
+      objectReference: {fileID: 0}
+    - target: {fileID: 9158924879308572332, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
@@ -426,6 +602,10 @@ PrefabInstance:
     - target: {fileID: 1219047211284599077, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
       propertyPath: m_Name
       value: ShoulderBlade_LODG_FBX_OldBone
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219047211284599077, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2788208802868650806, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
       propertyPath: m_RootOrder
@@ -483,6 +663,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 219.488
       objectReference: {fileID: 0}
+    - target: {fileID: 3429271871385465862, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4707908801728459448, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4878163322424840376, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6127794485850764846, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7870159578569040803, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9076357784906704974, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
 --- !u!4 &1036474475486346658 stripped
@@ -497,9 +701,37 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5153487115987294197}
     m_Modifications:
+    - target: {fileID: 456367167926852349, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1045375963986619451, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1975940110695771970, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2808610122856628928, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6625293484090676984, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
       propertyPath: m_Name
       value: Foot_LODG_FBX_OldBone
+      objectReference: {fileID: 0}
+    - target: {fileID: 6625293484090676984, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6730271151471101798, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7480653387755677778, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7902300615453811947, guid: 7e82cfef4db43c447972124dd98bade9, type: 3}
       propertyPath: m_RootOrder
@@ -575,6 +807,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hand_LODG_FBX_OldBone
       objectReference: {fileID: 0}
+    - target: {fileID: 1805445651534219075, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2767633362005924670, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2829341739355911847, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3410740705552659792, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -631,6 +875,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 203.072
       objectReference: {fileID: 0}
+    - target: {fileID: 4478138989073032270, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5439684338874722031, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5842115866848363850, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6596823027736150500, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
 --- !u!4 &2104537893321151138 stripped
@@ -648,6 +908,10 @@ PrefabInstance:
     - target: {fileID: 1219047211284599077, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
       propertyPath: m_Name
       value: ShoulderBlade_LODG_FBX_OldBone (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219047211284599077, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2788208802868650806, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
       propertyPath: m_RootOrder
@@ -705,6 +969,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 132.77701
       objectReference: {fileID: 0}
+    - target: {fileID: 3429271871385465862, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4707908801728459448, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4878163322424840376, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6127794485850764846, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7870159578569040803, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9076357784906704974, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b62406609a9b063488bbe6e7a8df0df2, type: 3}
 --- !u!4 &1572804276204448738 stripped
@@ -719,6 +1007,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5153487115987294197}
     m_Modifications:
+    - target: {fileID: 809980646558180187, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1096221004287095285, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -775,9 +1067,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 89.252
       objectReference: {fileID: 0}
+    - target: {fileID: 1241064878589562503, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1250805577336181221, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3579018450398711747, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4138199937098466278, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
       propertyPath: m_Name
       value: Femur_LODG_FBX_OldBone (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4138199937098466278, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6755855321091818558, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8590043544543294831, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
@@ -796,6 +1112,18 @@ PrefabInstance:
     - target: {fileID: 186247604671026675, guid: 10994db3859155d459840a3a03fbbef9, type: 3}
       propertyPath: m_Name
       value: Spine_LODG_FBX_OldBone
+      objectReference: {fileID: 0}
+    - target: {fileID: 186247604671026675, guid: 10994db3859155d459840a3a03fbbef9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2878983066477684439, guid: 10994db3859155d459840a3a03fbbef9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3248239290240535577, guid: 10994db3859155d459840a3a03fbbef9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3805250234070198240, guid: 10994db3859155d459840a3a03fbbef9, type: 3}
       propertyPath: m_RootOrder
@@ -853,6 +1181,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -148.348
       objectReference: {fileID: 0}
+    - target: {fileID: 4658640709812727776, guid: 10994db3859155d459840a3a03fbbef9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5456749674024959213, guid: 10994db3859155d459840a3a03fbbef9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6999059118848124016, guid: 10994db3859155d459840a3a03fbbef9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7003845591534981745, guid: 10994db3859155d459840a3a03fbbef9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10994db3859155d459840a3a03fbbef9, type: 3}
 --- !u!4 &58567583656382908 stripped
@@ -867,9 +1211,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5153487115987294197}
     m_Modifications:
+    - target: {fileID: 1700913608541692111, guid: 9cc9dbd6e6af3db4f9d98ea2c9663dd6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2118966589362520036, guid: 9cc9dbd6e6af3db4f9d98ea2c9663dd6, type: 3}
       propertyPath: m_Name
       value: Skull_LODG_FBX_OldBone
+      objectReference: {fileID: 0}
+    - target: {fileID: 2118966589362520036, guid: 9cc9dbd6e6af3db4f9d98ea2c9663dd6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2141541527138314939, guid: 9cc9dbd6e6af3db4f9d98ea2c9663dd6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3112916679186271735, guid: 9cc9dbd6e6af3db4f9d98ea2c9663dd6, type: 3}
       propertyPath: m_RootOrder
@@ -927,6 +1283,46 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3230322459255096627, guid: 9cc9dbd6e6af3db4f9d98ea2c9663dd6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4935235152411982088, guid: 9cc9dbd6e6af3db4f9d98ea2c9663dd6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6256978590092032855, guid: 9cc9dbd6e6af3db4f9d98ea2c9663dd6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6824688819848983447, guid: 9cc9dbd6e6af3db4f9d98ea2c9663dd6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6973305241037571546, guid: 9cc9dbd6e6af3db4f9d98ea2c9663dd6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7507189154491425845, guid: 9cc9dbd6e6af3db4f9d98ea2c9663dd6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7855342748398058120, guid: 9cc9dbd6e6af3db4f9d98ea2c9663dd6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8703097818754114784, guid: 9cc9dbd6e6af3db4f9d98ea2c9663dd6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737666584054834534, guid: 9cc9dbd6e6af3db4f9d98ea2c9663dd6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8774683070874624802, guid: 9cc9dbd6e6af3db4f9d98ea2c9663dd6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9cc9dbd6e6af3db4f9d98ea2c9663dd6, type: 3}
 --- !u!4 &7749060058710909573 stripped
@@ -941,6 +1337,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5153487115987294197}
     m_Modifications:
+    - target: {fileID: 180000843275866909, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 272555384488494661, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1225290643778095860, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4249923058580699498, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5278307266384770239, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -997,9 +1409,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90.579
       objectReference: {fileID: 0}
+    - target: {fileID: 7961725657548138692, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8675195621087223839, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9158924879308572332, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
       propertyPath: m_Name
       value: Humerus_LODG_FBX_OldBone (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9158924879308572332, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 396af32e99777e941918d5fe58dc7e5e, type: 3}
@@ -1018,6 +1442,18 @@ PrefabInstance:
     - target: {fileID: 1805445651534219075, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
       propertyPath: m_Name
       value: Hand_LODG_FBX_OldBone (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805445651534219075, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2767633362005924670, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2829341739355911847, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3410740705552659792, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
       propertyPath: m_RootOrder
@@ -1075,6 +1511,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 32.72
       objectReference: {fileID: 0}
+    - target: {fileID: 4478138989073032270, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5439684338874722031, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5842115866848363850, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6596823027736150500, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e291763b50dcbb4a9ffe77826d6aca1, type: 3}
 --- !u!4 &8937666727344921395 stripped
@@ -1089,9 +1541,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5153487115987294197}
     m_Modifications:
+    - target: {fileID: 1164225288556642106, guid: 43a72baa05343bf4fa82e449f34b9ee9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1397202868447177749, guid: 43a72baa05343bf4fa82e449f34b9ee9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2207111902391575658, guid: 43a72baa05343bf4fa82e449f34b9ee9, type: 3}
       propertyPath: m_Name
       value: TailBone_LODG_FBX_OldBone
+      objectReference: {fileID: 0}
+    - target: {fileID: 2207111902391575658, guid: 43a72baa05343bf4fa82e449f34b9ee9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2952783883692725881, guid: 43a72baa05343bf4fa82e449f34b9ee9, type: 3}
       propertyPath: m_RootOrder
@@ -1149,6 +1613,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3365205083911595453, guid: 43a72baa05343bf4fa82e449f34b9ee9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4610339218518816454, guid: 43a72baa05343bf4fa82e449f34b9ee9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7449764036249610873, guid: 43a72baa05343bf4fa82e449f34b9ee9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8134176509962716867, guid: 43a72baa05343bf4fa82e449f34b9ee9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 43a72baa05343bf4fa82e449f34b9ee9, type: 3}
 --- !u!4 &8964569486327930733 stripped
@@ -1163,6 +1643,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5153487115987294197}
     m_Modifications:
+    - target: {fileID: 145700526916723212, guid: 383d1c8dd54be0a4289e35989d9f3d33, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4568989173026112931, guid: 383d1c8dd54be0a4289e35989d9f3d33, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4916129465289732409, guid: 383d1c8dd54be0a4289e35989d9f3d33, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5996760829543592953, guid: 383d1c8dd54be0a4289e35989d9f3d33, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -1219,9 +1711,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 1088.492
       objectReference: {fileID: 0}
+    - target: {fileID: 7251707797607240513, guid: 383d1c8dd54be0a4289e35989d9f3d33, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7305858852870341098, guid: 383d1c8dd54be0a4289e35989d9f3d33, type: 3}
       propertyPath: m_Name
       value: Pelvis_LODG_FBX_OldBone
+      objectReference: {fileID: 0}
+    - target: {fileID: 7305858852870341098, guid: 383d1c8dd54be0a4289e35989d9f3d33, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916407874498005748, guid: 383d1c8dd54be0a4289e35989d9f3d33, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9222847288274761982, guid: 383d1c8dd54be0a4289e35989d9f3d33, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 383d1c8dd54be0a4289e35989d9f3d33, type: 3}
@@ -1237,9 +1745,37 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5153487115987294197}
     m_Modifications:
+    - target: {fileID: 1130216123433168269, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3022192105089740760, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3798016163525185544, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4111885943578960325, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4813442586674891686, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
       propertyPath: m_Name
       value: RadiusandUlna_LODG_FBX_OldBone
+      objectReference: {fileID: 0}
+    - target: {fileID: 4813442586674891686, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5884169899123876821, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6222501079194751623, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8401343468347619765, guid: d5ae61d4084b96f44853b2aaae95b543, type: 3}
       propertyPath: m_RootOrder
@@ -1311,9 +1847,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5153487115987294197}
     m_Modifications:
+    - target: {fileID: 925201450427523658, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1062271057912494550, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
       propertyPath: m_Name
       value: FibulaandTibia_LODG_FBX_OldBone (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1062271057912494550, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2481571771693190708, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3791647992994628791, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4100149498391268293, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
       propertyPath: m_RootOrder
@@ -1371,6 +1923,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -273.399
       objectReference: {fileID: 0}
+    - target: {fileID: 4234579795728763773, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6851669252531635342, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8778806337582342443, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b45b0cd2ff92e9a4c8df93be50986c80, type: 3}
 --- !u!4 &4714564698041717546 stripped
@@ -1385,9 +1949,37 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5153487115987294197}
     m_Modifications:
+    - target: {fileID: 3187707289180192127, guid: 49682a02129d1a84c91ff2d233d99a1c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5368082706327983900, guid: 49682a02129d1a84c91ff2d233d99a1c, type: 3}
       propertyPath: m_Name
       value: Ribcage_LODG_FBX_OldBone
+      objectReference: {fileID: 0}
+    - target: {fileID: 5368082706327983900, guid: 49682a02129d1a84c91ff2d233d99a1c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7205186988777019497, guid: 49682a02129d1a84c91ff2d233d99a1c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7541536388943934545, guid: 49682a02129d1a84c91ff2d233d99a1c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8097494934961602525, guid: 49682a02129d1a84c91ff2d233d99a1c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8580317690863015270, guid: 49682a02129d1a84c91ff2d233d99a1c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8722520811305144855, guid: 49682a02129d1a84c91ff2d233d99a1c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8945304581367014671, guid: 49682a02129d1a84c91ff2d233d99a1c, type: 3}
       propertyPath: m_RootOrder
@@ -1459,6 +2051,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5153487115987294197}
     m_Modifications:
+    - target: {fileID: 809980646558180187, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1096221004287095285, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -1515,9 +2111,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -267.812
       objectReference: {fileID: 0}
+    - target: {fileID: 1241064878589562503, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1250805577336181221, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3579018450398711747, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4138199937098466278, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
       propertyPath: m_Name
       value: Femur_LODG_FBX_OldBone
+      objectReference: {fileID: 0}
+    - target: {fileID: 4138199937098466278, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6755855321091818558, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8590043544543294831, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ef8ecc7c9a0f7e47b4f5eb58910c18f, type: 3}

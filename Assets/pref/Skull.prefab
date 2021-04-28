@@ -451,8 +451,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13f8eed432de92e4097b51938f89d8f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skull: 1
-  rib: 0
   approached: 0
   halo: {fileID: 1227045063431091426}
   thrown: 0

@@ -153,6 +153,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3182180594566626131}
     m_Modifications:
+    - target: {fileID: -7682106108196572310, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -7044074783647748903, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -217,6 +221,30 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ribcage_LODG_FBX
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4634821560289205250, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5277861887692681672, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5642384347692817267, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5905983493950208580, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6531161422851053180, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
 --- !u!4 &1357039328598882003 stripped
@@ -231,6 +259,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1007967726458661662}
     m_Modifications:
+    - target: {fileID: -7682106108196572310, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -7044074783647748903, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -295,6 +327,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ribcage_LODG_FBX (1)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4634821560289205250, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5277861887692681672, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5551014577142218206, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
       propertyPath: m_FadeMode
       value: 0
@@ -302,6 +346,18 @@ PrefabInstance:
     - target: {fileID: 5551014577142218206, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
       propertyPath: m_AnimateCrossFading
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5642384347692817267, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5905983493950208580, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6531161422851053180, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e6d28a2c2a9ed754aaa049552b39157c, type: 3}

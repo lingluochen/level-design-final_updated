@@ -192,6 +192,8 @@ MonoBehaviour:
   throwCounterMax: 50
   throwForce: 0
   throwForceMax: 40
+  player: {fileID: 0}
+  ta: {fileID: 0}
 --- !u!1 &5395871979256290561
 GameObject:
   m_ObjectHideFlags: 0

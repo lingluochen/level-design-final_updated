@@ -138,6 +138,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8528613702598760094}
     m_Modifications:
+    - target: {fileID: -7762003271782171921, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -198,9 +202,33 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 8740ccd6f46dcfa479b2d076f3bbe17c, type: 2}
+    - target: {fileID: -1604319117664378851, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1297314571806666217, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -927199367670048503, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
       propertyPath: m_Name
       value: Pelvis_LODG_FBX
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2966250990151818560, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5943602857614338522, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8277984654929873826, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
@@ -216,6 +244,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8027492961517833311}
     m_Modifications:
+    - target: {fileID: -7762003271782171921, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -276,9 +308,33 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 4791981d92744f141b610c0d1cb9acd9, type: 2}
+    - target: {fileID: -1604319117664378851, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1297314571806666217, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -927199367670048503, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
       propertyPath: m_Name
       value: Pelvis_LODG_FBX (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2966250990151818560, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5943602857614338522, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8277984654929873826, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4386aef9b12bb81478d3bafad5af5dc2, type: 3}

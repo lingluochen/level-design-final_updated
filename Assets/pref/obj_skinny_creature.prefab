@@ -141,6 +141,7 @@ MonoBehaviour:
   circle: {fileID: 8596739320177118295}
   player: {fileID: 0}
   counter: 0
+  playerGO: {fileID: 0}
 --- !u!114 &3157166828804842237
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -153,6 +154,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 481491ec3cca5e84592cb6342281d12b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerGO: {fileID: 0}
   player: {fileID: 7451737761591902115, guid: af3f32af72ba63841a84791881cb6ffa, type: 3}
   maxAngle: 360
   maxRadius: 8.59
