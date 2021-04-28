@@ -12,7 +12,7 @@ public class EnemyScript : MonoBehaviour
     public Vector3[] waypoints;
     public bool beingHit = false;
     public Material white;
-    public MeshRenderer mr;
+    public SkinnedMeshRenderer mr;
     public GameObject circle;
     public Transform player;
     public int counter = 0;
