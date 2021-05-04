@@ -16,7 +16,7 @@ public class FirstPersonDrifter: MonoBehaviour
  
     public bool enableRunning = false;
  
-    public float jumpSpeed = 4.0f;
+    public float jumpSpeed = 0;
     public float gravity = 10.0f;
  
     // Units that player can fall before a falling damage function is run. To disable, type "infinity" in the inspector

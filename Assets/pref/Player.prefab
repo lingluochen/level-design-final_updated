@@ -311,7 +311,7 @@ MonoBehaviour:
   walkSpeed: 6
   runSpeed: 10
   enableRunning: 0
-  jumpSpeed: 4
+  jumpSpeed: 0
   gravity: 10
   slideWhenOverSlopeLimit: 0
   slideOnTaggedObjects: 0
