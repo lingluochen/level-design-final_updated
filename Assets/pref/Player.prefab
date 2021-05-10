@@ -181,7 +181,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
-  m_RenderPostProcessing: 0
+  m_RenderPostProcessing: 1
   m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 0
@@ -378,6 +378,7 @@ MonoBehaviour:
   throwCounter: 0
   throwing: 0
   sight: {fileID: 2722660294187104527, guid: e16862b4f6f4fc9449921062c243ab3c, type: 3}
+  dia: {fileID: 0}
   checkpoint: {fileID: 0}
   death: 0
   deathCounter: 0
@@ -407,6 +408,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1321edfe125a4342a6ed509f3eb95c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MainTheme: {fileID: 1940331614233968360, guid: bc8a56db492ce6e4aaf16b134d0f67fa, type: 3}
-  BGM: {fileID: 7798007874682554577, guid: bffee0af39186d54494affbe9c8dea5f, type: 3}
-  ac: {fileID: 8300000, guid: d6b07733fcdce704f877952ffddfe0d9, type: 3}
