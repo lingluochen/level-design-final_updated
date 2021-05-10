@@ -31,6 +31,8 @@ public class destroy : MonoBehaviour
                 throwStuff.thisBall = null;
                 throwStuff.handBall = null;
                 throwStuff.inHand = false;
+                GameObject dia = throwStuff.dia;
+                dia.SetActive(false);
             }
         }
     }

@@ -14,7 +14,7 @@ public class throwAway : MonoBehaviour
     public int throwCounter = 0;
     public bool throwing = false;
     public GameObject sight;
-    private GameObject dia;
+    public GameObject dia;
     public Transform checkpoint;
     public bool death;
     public int deathCounter = 0;
@@ -86,6 +86,7 @@ public class throwAway : MonoBehaviour
                 inHand = false;
                 throwing = true;
                 dia.SetActive(false);
+                thisBall = null;
             }
             if (Input.GetKeyDown(KeyCode.E) && !throwing)
             {
